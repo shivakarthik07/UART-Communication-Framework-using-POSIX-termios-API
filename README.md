@@ -1,6 +1,6 @@
 # UART Communication Framework
 
-![C](https://img.shields.io/badge/C-POSIX-blue) ![Linux](https://img.shields.io/badge/Linux-termios-informational) ![RISC-V](https://img.shields.io/badge/RISC-v--ACT-orange)
+![C](https://img.shields.io/badge/C-POSIX-blue) ![Linux](https://img.shields.io/badge/Linux-termios-informational) 
 
 > Linux UART interface using `termios` — configurable baud, non-blocking RX via `poll()`, hex dump logging, graceful `SIGINT` shutdown. Tested with virtual UARTs via `socat`.
 
