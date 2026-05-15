@@ -224,6 +224,11 @@ int main(int argc, char *argv[]) {
 
 ---
 
+## Output
+<img width="1825" height="598" alt="Screenshot from 2026-05-15 23-42-24" src="https://github.com/user-attachments/assets/5836e8d8-0658-43fc-8420-4a29bec96e02" />
+
+---
+
 ## Relevance — RISC-V ACT / M-Mode Firmware Validation
 
 | Use Case | How This Project Applies |
